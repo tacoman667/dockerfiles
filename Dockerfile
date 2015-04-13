@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Jeremy Hardin <jhardin@surgeforward.com>
+MAINTAINER Jeremy Hardin <jeremy@codingzen.net>
 
 RUN apt-get update
 
